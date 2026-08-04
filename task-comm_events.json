@@ -1,0 +1,48 @@
+{
+  "value": {
+    "Description": "Original trigger code recorded from the acquisition system"
+  },
+  "trial_type": {
+    "Description": "Semantic label corresponding to the trigger code",
+    "Levels": {
+      "MI_read_EN_a": "MI_read_EN_a",
+      "MI_write_EN_a": "MI_write_EN_a",
+      "ME_read_EN_a": "ME_read_EN_a",
+      "ME_write_EN_a": "ME_write_EN_a",
+      "MI_read_EN_b": "MI_read_EN_b",
+      "MI_write_EN_b": "MI_write_EN_b",
+      "ME_read_EN_b": "ME_read_EN_b",
+      "ME_write_EN_b": "ME_write_EN_b",
+      "MI_read_EN_c": "MI_read_EN_c",
+      "MI_write_EN_c": "MI_write_EN_c",
+      "ME_read_EN_c": "ME_read_EN_c",
+      "ME_write_EN_c": "ME_write_EN_c",
+      "MI_read_EN_d": "MI_read_EN_d",
+      "MI_write_EN_d": "MI_write_EN_d",
+      "ME_read_EN_d": "ME_read_EN_d",
+      "ME_write_EN_d": "ME_write_EN_d",
+      "MI_read_CN_heng": "MI_read_CN_heng",
+      "MI_write_CN_heng": "MI_write_CN_heng",
+      "ME_read_CN_heng": "ME_read_CN_heng",
+      "ME_write_CN_heng": "ME_write_CN_heng",
+      "MI_read_CN_shu": "MI_read_CN_shu",
+      "MI_write_CN_shu": "MI_write_CN_shu",
+      "ME_read_CN_shu": "ME_read_CN_shu",
+      "ME_write_CN_shu": "ME_write_CN_shu",
+      "MI_read_CN_pie": "MI_read_CN_pie",
+      "MI_write_CN_pie": "MI_write_CN_pie",
+      "ME_read_CN_pie": "ME_read_CN_pie",
+      "ME_write_CN_pie": "ME_write_CN_pie",
+      "MI_read_CN_na": "MI_read_CN_na",
+      "MI_write_CN_na": "MI_write_CN_na",
+      "ME_read_CN_na": "ME_read_CN_na",
+      "ME_write_CN_na": "ME_write_CN_na"
+    }
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "Psychtoolbox-3",
+    "SoftwareVersion": "n/a",
+    "OperatingSystem": "n/a",
+    "Code": "n/a"
+  }
+}
