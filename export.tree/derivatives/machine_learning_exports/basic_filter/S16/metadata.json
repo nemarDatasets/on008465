@@ -1,0 +1,27 @@
+{
+  "subject": "S16",
+  "shape": [
+    512,
+    122,
+    813
+  ],
+  "dtype": "float32",
+  "axis_order": [
+    "trial",
+    "channel",
+    "time"
+  ],
+  "sfreq_hz": [
+    250.0
+  ],
+  "xmin_s": [
+    -0.252
+  ],
+  "xmax_s": [
+    2.996
+  ],
+  "time_unit": "ms",
+  "value_unit": "EEGLAB stored numeric unit, not rescaled",
+  "source_file_count": 32,
+  "event_type_mismatch_count": 0
+}
