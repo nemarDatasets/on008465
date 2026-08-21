@@ -1,0 +1,31 @@
+{
+  "subject": "S16",
+  "eeg_file": "derivatives\\machine_learning_exports\\stable\\S16\\eeg.npy",
+  "labels_file": "derivatives\\machine_learning_exports\\stable\\S16\\labels.csv",
+  "shape": [
+    504,
+    122,
+    813
+  ],
+  "dtype": "float32",
+  "axis_order": [
+    "trial",
+    "channel",
+    "time"
+  ],
+  "sfreq_hz": [
+    250.0
+  ],
+  "xmin_s": [
+    -0.252,
+    0.0
+  ],
+  "xmax_s": [
+    2.996,
+    3.248
+  ],
+  "time_unit": "ms",
+  "value_unit": "EEGLAB stored numeric unit, not rescaled",
+  "source_file_count": 32,
+  "event_type_mismatch_count": 0
+}
