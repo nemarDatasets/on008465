@@ -1,5 +1,0 @@
-{
-  "EEGCoordinateSystem": "EEGLAB",
-  "EEGCoordinateUnits": "mm",
-  "EEGCoordinateSystemDescription": "Shared cap-layout template from 127cn.csv in the EEGLAB ALS coordinate convention: positive x points anteriorly, positive y points to the participant's left and positive z points superiorly. The origin is near the centre of the head between the bilateral mastoid/preauricular locations. Coordinates were not digitized separately for each participant."
-}
