@@ -1,0 +1,281 @@
+{
+  "input_root": "stable_token_epoch_source",
+  "output_root": "derivatives\\machine_learning_exports\\stable",
+  "subject_count": 30,
+  "source_set_file_count": 960,
+  "total_trial_count": 13749,
+  "subjects": {
+    "S01": {
+      "shape": [
+        475,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S02": {
+      "shape": [
+        432,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S03": {
+      "shape": [
+        466,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S04": {
+      "shape": [
+        320,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S05": {
+      "shape": [
+        503,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S06": {
+      "shape": [
+        496,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S07": {
+      "shape": [
+        505,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S08": {
+      "shape": [
+        489,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S09": {
+      "shape": [
+        384,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S10": {
+      "shape": [
+        64,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S11": {
+      "shape": [
+        487,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S12": {
+      "shape": [
+        512,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S13": {
+      "shape": [
+        510,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S14": {
+      "shape": [
+        446,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S15": {
+      "shape": [
+        507,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S16": {
+      "shape": [
+        504,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S17": {
+      "shape": [
+        511,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S18": {
+      "shape": [
+        508,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S19": {
+      "shape": [
+        499,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S20": {
+      "shape": [
+        485,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S21": {
+      "shape": [
+        192,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S22": {
+      "shape": [
+        483,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S23": {
+      "shape": [
+        508,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S24": {
+      "shape": [
+        511,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S25": {
+      "shape": [
+        431,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S26": {
+      "shape": [
+        499,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S27": {
+      "shape": [
+        499,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S28": {
+      "shape": [
+        509,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S29": {
+      "shape": [
+        507,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    },
+    "S30": {
+      "shape": [
+        507,
+        122,
+        813
+      ],
+      "source_file_count": 32,
+      "event_type_mismatch_count": 0
+    }
+  },
+  "copied_extraction_script": "extract_eeg_signals_by_subject.py",
+  "version": "stable"
+}
