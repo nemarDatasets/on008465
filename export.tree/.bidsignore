@@ -1,4 +1,0 @@
-# Proprietary source files and derivative exports are included for reuse but are
-# not part of the raw BIDS validation target.
-sourcedata/
-derivatives/
