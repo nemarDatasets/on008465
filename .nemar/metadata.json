@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "NeuralEcho MACS high-density communication-related EEG dataset",
-  "description": "This dataset comprises high-density EEG recordings from 30 healthy, right-handed, native Chinese-speaking adults performing imagined and executed vocalization and writing tasks involving Chinese strokes and English letters. The factorial design crossed task mode, action, script, and token identity, yielding 32 event-coded conditions across 15,360 task events. The dataset is intended to support research on communication-related neural processes, motor imagery, and cross-linguistic motor execution.",
-  "methods_description": "Each of 30 participants completed eight runs of 64 trials, crossing task mode (motor imagery or motor execution), action (read/speak or write), script (Chinese or English), and token identity. High-density EEG was recorded using a 127-channel cap layout with a shared template electrode configuration in EEGLAB ALS coordinates, referenced to bilateral mastoid electrodes M1 and M2. Raw BrainVision EEG data and proprietary Neuroscan source recordings are included, along with EEGLAB preprocessing derivatives and subject-level machine-learning exports.",
+  "description": "This dataset comprises high-density EEG recordings from 30 healthy, right-handed, native Chinese-speaking adults performing imagined and executed vocalization and writing tasks involving four Chinese strokes and four English letters. The factorial design crossed task mode, action, script and token identity, yielding 32 event-coded conditions across 15,360 task events. The dataset supports research into motor imagery, speech and handwriting-related neural communication signals.",
+  "methods_description": "Each participant completed eight runs of 64 trials in a factorial design crossing task mode (motor imagery or motor execution), action (read/speak or write), script (Chinese or English) and token identity. EEG was recorded using a 127-channel cap with a shared template layout referenced to bilateral mastoid electrodes M1 and M2. Proprietary Neuroscan source recordings were converted to BrainVision format organized per BIDS, with EEGLAB used for preprocessing derivatives.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -20,19 +20,16 @@
       "term": "motor imagery"
     },
     {
-      "term": "motor execution"
+      "term": "handwriting"
     },
     {
       "term": "speech production"
     },
     {
-      "term": "handwriting"
-    },
-    {
       "term": "high-density EEG"
     },
     {
-      "term": "communication"
+      "term": "brain-computer interface"
     }
   ],
   "related_identifiers": [
