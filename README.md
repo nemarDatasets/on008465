@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on008465-blue)](https://doi.org/10.82901/nemar.on008465)
+
 NeuralEcho MACS high-density communication-related EEG dataset
 ================================================================
 
