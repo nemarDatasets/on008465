@@ -2,3 +2,4 @@
 # not part of the raw BIDS validation target.
 sourcedata/
 derivatives/
+.nemar/
