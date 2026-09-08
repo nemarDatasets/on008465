@@ -1,22 +1,28 @@
 {
-    "Name": "NeuralEcho MACS high-density communication-related EEG dataset",
-    "BIDSVersion": "1.7.0",
-    "DatasetType": "raw",
-    "Authors": [
-        "Huang Jinfeng",
-        "Kangqiao Liu",
-        "Li Zhongjie",
-        "Jin Yongdong"
-    ],
-    "Acknowledgements": "Data collection and curation were conducted collaboratively by Tianjin University, Shenzhen University and NeuralEcho Technology Co., Ltd.",
-    "HowToAcknowledge": "Please cite the accompanying Scientific Data Data Descriptor.",
-    "GeneratedBy": [
-        {
-            "Name": "MNE-BIDS",
-            "Version": "0.17.0",
-            "CodeURL": "https://mne.tools/mne-bids/"
-        }
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008465.v1.0.0",
-    "License": "CC0"
+  "Name": "NeuralEcho MACS high-density communication-related EEG dataset",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "raw",
+  "Authors": [
+    "Huang Jinfeng",
+    "Kangqiao Liu",
+    "Li Zhongjie",
+    "Jin Yongdong"
+  ],
+  "Acknowledgements": "Data collection and curation were conducted collaboratively by Tianjin University, Shenzhen University and NeuralEcho Technology Co., Ltd.",
+  "HowToAcknowledge": "Please cite the accompanying Scientific Data Data Descriptor.",
+  "GeneratedBy": [
+    {
+      "Name": "MNE-BIDS",
+      "Version": "0.17.0",
+      "CodeURL": "https://mne.tools/mne-bids/"
+    }
+  ],
+  "DatasetDOI": "10.82901/nemar.on008465",
+  "License": "CC0",
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds008465.v1.0.0"
+    }
+  ],
+  "Version": "1.0.0"
 }
