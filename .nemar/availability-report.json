@@ -1,0 +1,163 @@
+{
+  "dataset_id": "on008465",
+  "version": "1.0.0",
+  "generated_at": "2026-09-09T03:00:35.964Z",
+  "source": {
+    "type": "openneuro",
+    "id": "ds008465"
+  },
+  "complete": false,
+  "completeness": {
+    "files_present": 4158,
+    "files_declared": 4182,
+    "bytes_present": 190485702143,
+    "bytes_declared": 194556468057,
+    "pct_bytes": 0.9790766868115257
+  },
+  "missing": [
+    {
+      "path": "derivatives/eeglab_preprocessed/basic_filter/sub-01/ses-exp1/eeg/sub-01_ses-exp1_task-comm_desc-basicfilter_trialtype-MI_read_CN_shu_epo.set",
+      "key": "SHA256E-s12331902--b565e149a86b6880de0dcb30a74eb853c3ac7bc1e86220cef7e8e41ff560e1bb.set",
+      "declared_size": 12331902,
+      "reason": "absent"
+    },
+    {
+      "path": "derivatives/eeglab_preprocessed/basic_filter/sub-01/ses-exp1/eeg/sub-01_ses-exp1_task-comm_desc-basicfilter_trialtype-MI_write_CN_na_epo.set",
+      "key": "SHA256E-s12328453--8a49d3a385957e52d4c331387ac9070a10ff9c17b8c12c322c6647913f8ffe3e.set",
+      "declared_size": 12328453,
+      "reason": "absent"
+    },
+    {
+      "path": "derivatives/eeglab_preprocessed/basic_filter/sub-02/ses-exp1/eeg/sub-02_ses-exp1_task-comm_desc-basicfilter_trialtype-MI_read_EN_d_epo.set",
+      "key": "SHA256E-s12360162--0af79b03a21425c69d331bc1d38d7dbd8a008e1134d07a963bf64dac4098099b.set",
+      "declared_size": 12360162,
+      "reason": "absent"
+    },
+    {
+      "path": "derivatives/eeglab_preprocessed/basic_filter/sub-05/ses-exp1/eeg/sub-05_ses-exp1_task-comm_desc-basicfilter_trialtype-MI_read_EN_a_epo.set",
+      "key": "SHA256E-s12370509--f6ec914262caaa9dfefdcd9482aa64f35decd56d28f35e7876a2e0588dfb7e66.set",
+      "declared_size": 12370509,
+      "reason": "absent"
+    },
+    {
+      "path": "derivatives/eeglab_preprocessed/basic_filter/sub-05/ses-exp1/eeg/sub-05_ses-exp1_task-comm_desc-basicfilter_trialtype-MI_read_EN_b_epo.set",
+      "key": "SHA256E-s12375058--4eb238d5690a1c0ce222e85a2907d382eec6d7dbf0f1cd929d4d9c299e7d4e73.set",
+      "declared_size": 12375058,
+      "reason": "absent"
+    },
+    {
+      "path": "derivatives/eeglab_preprocessed/basic_filter/sub-05/ses-exp1/eeg/sub-05_ses-exp1_task-comm_desc-basicfilter_trialtype-MI_read_EN_c_epo.set",
+      "key": "SHA256E-s12366325--e1aa326151c3530f0325fd5929e324acc9ce755591d83f677706c6dc42fadac5.set",
+      "declared_size": 12366325,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-03/ses-exp1/eeg/S03_2022.05.20_003.cnt",
+      "key": "SHA256E-s289366894--8dc08d3762eef2c811866af3e2acbb2d9ca46251afac17628137fd32951b10a3.05.20_003.cnt",
+      "declared_size": 289366894,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-03/ses-exp1/eeg/S03_2022.05.20_008.cnt",
+      "key": "SHA256E-s255940494--a265620c64a03a8cf1668184ce07b7918cc6912f5b5d31fdd6bf6258f2845890.05.20_008.cnt",
+      "declared_size": 255940494,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-04/ses-exp1/eeg/S04_2022.05.22_003.cnt",
+      "key": "SHA256E-s214944894--33df5b82876f79276e157fe91deada44be079780b38be0db1dfa37e77a46ec1f.05.22_003.cnt",
+      "declared_size": 214944894,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-04/ses-exp1/eeg/S04_2022.05.22_005.cnt",
+      "key": "SHA256E-s216265694--9dfdc91013c3bdd84cd6a149bfbe4d404764d29ba140071f561c737630ae26dc.05.22_005.cnt",
+      "declared_size": 216265694,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-08/ses-exp1/eeg/S08_2022.05.29_007.cnt",
+      "key": "SHA256E-s212709694--8165a16d7e08fa1fba5914411c26566757389bee10db47e1c7fe87eac36dfe47.05.29_007.cnt",
+      "declared_size": 212709694,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-10/ses-exp1/eeg/S10_2022.06.04_004.cnt",
+      "key": "SHA256E-s218653294--e103d1514290442b3452ab8c7db7df70124850e789ddc1fd403af85eebea9ba5.06.04_004.cnt",
+      "declared_size": 218653294,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-10/ses-exp1/eeg/S10_2022.06.04_005.cnt",
+      "key": "SHA256E-s222107694--3c07753afe365eb4b921bc7b1f0bf3534d42489675226fba3f4cb3285d2be1b6.06.04_005.cnt",
+      "declared_size": 222107694,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-16/ses-exp1/eeg/S16_2022.6.12_003.cnt",
+      "key": "SHA256E-s211388894--c5c493ce7bb2c474c6f26037513b6c4578ec8a1cc5e78dc4b57aa8b49e0d4d40.6.12_003.cnt",
+      "declared_size": 211388894,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-16/ses-exp1/eeg/S16_2022.6.12_005.cnt",
+      "key": "SHA256E-s210982494--0e74be627d967799cd7f5c61d6200b6bf1549d7934dad6866944579006258ad7.6.12_005.cnt",
+      "declared_size": 210982494,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-17/ses-exp1/eeg/S17_2022.06.18_007.cnt",
+      "key": "SHA256E-s219110494--5088be436e6bf9461888293783e439c1c8f96dac4a04480e532c8ed3f63955ec.06.18_007.cnt",
+      "declared_size": 219110494,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-19/ses-exp1/eeg/S19_2022.06.19_006.cnt",
+      "key": "SHA256E-s209864894--8e0d3e84d0e11673c15c0e33f6d0c9b5cd473bdab4d87c515aa3607a542d1c58.06.19_006.cnt",
+      "declared_size": 209864894,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-21/ses-exp1/eeg/S21_2022.06.20_003.cnt",
+      "key": "SHA256E-s213166894--8794ba0e53984ca69aee6a01464236179ec7d95f09ebb45b44c68b620f443a1b.06.20_003.cnt",
+      "declared_size": 213166894,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-21/ses-exp1/eeg/S21_2022.06.20_004.cnt",
+      "key": "SHA256E-s210779294--75018fe8506d89e34e1d7df59ffcd6a83fbb8cb3ba0dd29988f040521472e610.06.20_004.cnt",
+      "declared_size": 210779294,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-21/ses-exp1/eeg/S21_2022.06.20_006.cnt",
+      "key": "SHA256E-s213014494--43cde7fdb9b9412bd338833e97f855efdee13a4b762918bba0b7ebd80cba4aa2.06.20_006.cnt",
+      "declared_size": 213014494,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-21/ses-exp1/eeg/S21_2022.06.20_007.cnt",
+      "key": "SHA256E-s210068094--747142e51475913aea6763b40c984fe06c994826e88ce726fa34e7ba06396a7f.06.20_007.cnt",
+      "declared_size": 210068094,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-21/ses-exp1/eeg/S21_2022.06.20_008.cnt",
+      "key": "SHA256E-s208848894--572cf198bec562092b8ead82707bdb7f2375086a7d20d5ea995509b7fd010916.06.20_008.cnt",
+      "declared_size": 208848894,
+      "reason": "absent"
+    },
+    {
+      "path": "sourcedata/sub-28/ses-exp1/eeg/S28_2022.06.24_002.cnt",
+      "key": "SHA256E-s237093694--c901293006f7deaca47fc69b1b7c57abfa87400eed996a4e235b20a886d1a894.06.24_002.cnt",
+      "declared_size": 237093694,
+      "reason": "absent"
+    },
+    {
+      "path": "sub-14/ses-exp1/eeg/sub-14_ses-exp1_task-comm_run-04_eeg.eeg",
+      "key": "SHA256E-s215646000--0e19fac0a97b0970ab4b60fb04b5fe34938b6ab7941a66b4bf350629a08316b5.eeg",
+      "declared_size": 215646000,
+      "reason": "absent"
+    }
+  ]
+}
